@@ -6,7 +6,7 @@ PearlTrack is a filing system mainly aimed for dentists.
 2. Dentists can record patients records.
 3. Dentists can export patients records as pdf.
 
-## Tech Stac
+## TechStack
 The UI is built using Tkinter.
 The database was Firebase.
 The language is Python.
